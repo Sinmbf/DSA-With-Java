@@ -11,7 +11,7 @@ class Node{
     }
 }
 
-public class DeleteFromLastSingly{
+public class DeletionFromFirstSingly{
     public static void main(String[]args){
         Node tail=new Node(40,null);
         Node node3= new Node(30,tail);
